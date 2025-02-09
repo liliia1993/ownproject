@@ -31,16 +31,12 @@ header {
   gap: 4rem;
 }
 
-hr {
-  color: rgb(237, 234, 231);
-}
-
 /* header end */
 
 /* section content one start */
 .one .box-container {
   display: flex;
-  /* justify-content: center; */
+  justify-content: center; 
   flex-wrap: wrap;
   gap: 1.5rem;
 }
