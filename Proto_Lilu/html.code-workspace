@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "../html"
+    },
+    {
+      "path": "../it"
+    },
+    {
+      "path": "../js"
+    },
+    {
+      "path": "../MegaHacker"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "it"
+  }
+}
