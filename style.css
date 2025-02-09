@@ -62,6 +62,8 @@ hr {
 
 .one .heading {
   font-size: 10rem;
+  display: flex;
+justify-content: center;
   color: brown;
   font-weight: 800;
 } 
